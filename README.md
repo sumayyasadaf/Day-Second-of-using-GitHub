@@ -1,4 +1,4 @@
 #DAY 2
-# Day-Second-of-using-GitHub
+# Day-Second
 #Second Repository
 Learn something....
